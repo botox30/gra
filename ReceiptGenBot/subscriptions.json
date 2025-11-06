@@ -1,0 +1,22 @@
+{
+  "example_user_id": {
+    "user_id": 123456789,
+    "guild_id": 1395873913514229881,
+    "days": 3,
+    "is_forever": false,
+    "end_date": "2025-01-25T12:00:00",
+    "is_active": true,
+    "created_at": "2025-01-22T12:00:00",
+    "last_updated": "2025-01-22T12:00:00"
+  },
+  "1390371765204811977": {
+    "user_id": 1390371765204811977,
+    "guild_id": 1395873913514229881,
+    "days": 2,
+    "is_forever": false,
+    "end_date": "2025-07-27T14:22:25.589005",
+    "is_active": true,
+    "created_at": "2025-07-25T14:22:25.589019",
+    "last_updated": "2025-07-25T14:22:25.589021"
+  }
+}
